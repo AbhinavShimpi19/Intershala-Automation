@@ -1,3 +1,3 @@
-let id = "abhinavshimpi2005@gmail.com";
-let pass = "Anu@#12345";
+let id = "emailid_use_for_login.com";
+let pass = "yourPassoword";
 module.exports = { id, pass };
